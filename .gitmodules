@@ -1,0 +1,3 @@
+[submodule "wipes_image/wipesplat"]
+	path = wipes_image/wipesplat
+	url = git@github.com:MITNKU/wipesplat.git
