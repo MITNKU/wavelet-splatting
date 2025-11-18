@@ -1,3 +1,9 @@
 [submodule "wipes_image/wipesplat"]
 	path = wipes_image/wipesplat
 	url = git@github.com:MITNKU/wipesplat.git
+[submodule "wipes_splatting/submodules/simple-knn"]
+	path = wipes_splatting/submodules/simple-knn
+	url = https://gitlab.inria.fr/bkerbl/simple-knn.git
+[submodule "wipes_splatting/submodules/diff-wipes-rasterization"]
+	path = wipes_splatting/submodules/diff-wipes-rasterization
+	url = git@github.com:MITNKU/diff-wipes-rasterization.git
