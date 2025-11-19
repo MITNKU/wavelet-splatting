@@ -1,4 +1,4 @@
-name: wipes
+name: wipes_splatting
 channels:
   - pytorch
   - conda-forge
