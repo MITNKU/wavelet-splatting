@@ -62,6 +62,9 @@ cd wipes_splatting
 bash scripts/train_single.sh
 ```
 
+## License
+
+WIPES-authored code is released under the [MIT License](LICENSE). Please see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for upstream licensing notes, including the MIT-licensed GaussianImage components and the non-commercial research/evaluation license that applies to affected `gaussian-splatting` components used by `wipes_splatting`.
 
 ## Citation
 ```BibTeX
